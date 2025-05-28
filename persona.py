@@ -1,4 +1,4 @@
-Class Persona:
+class Persona:
     def __init__(self, cedula, tramite):
         self.cedula = cedula
         self.tramite = tramite

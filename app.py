@@ -1,6 +1,6 @@
-import menu
+from view import menu
 from controllers import citizenHandler
-import Persona
+from persona import Persona
 
 handler = citizenHandler.CitizenHandler()
 while True:
