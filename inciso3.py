@@ -45,3 +45,6 @@ class HistoryManager:
     def mostrar_historial(self, citizen: Citizen) -> list:
    
         return citizen.history.get_all()
+
+
+
