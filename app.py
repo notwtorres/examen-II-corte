@@ -16,3 +16,6 @@ while True:
     
     case "2": 
       handler.desencolar_ciudadno()
+
+    case "3":
+      print(handler.mostrar_ciudadano())
